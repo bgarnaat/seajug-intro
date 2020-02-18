@@ -1,9 +1,10 @@
 ## Seattle Java User's Group
 
-Nov 19, 2019
+Jan 21, 2020
 
 
-##Machine Learning with k-NN search in Open Distro for Elasticsearch
+## Eric Sedlar: The GraalVM Universal Runtime
+
 
 
 <div style="background-color: white; margin-top: 30px;">
@@ -36,12 +37,12 @@ Seattle Java User's Group is dedicated to the helping you.
 
 ## Useful stats
 
-* **1940** members (Ok we should break 2000 by EOY)
+* **2,029** members 
 * **1.5** meeting per month (More volunteers!)
 
 --section--
 
 ## Upcoming SEAJUG Events
-* Dec 10 : Office Hours
-* Dec 12 : SeaJUG Holiday Party!
-
+* Mar: Office Hours
+* Mar 17: Monthly Meetup -- Announcement Soon
+* Mar 30: Bonus Meetup! Graeme Rocher: GraalVM, AWS Lambda, microservices and serverless
